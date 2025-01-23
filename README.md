@@ -1,3 +1,3 @@
 # Markdown
 
-Criando primeiro commit.
+criar um repositório local e remoto (origin)
